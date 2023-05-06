@@ -1755,7 +1755,6 @@ const luckysheetformula = {
         if (val.length > 1) {
             // Supports cross-table references
             rangetxt = val[1];
-            
         } else {
             rangetxt = val[0];
         }
